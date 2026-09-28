@@ -1,0 +1,6 @@
+{
+  "name": "PulseDoc iOS - Medical Report Analyzer",
+  "description": "Modern iOS medical document and lab report analyzer with clinical breakdown, medicines, treatment timelines, and safety indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
